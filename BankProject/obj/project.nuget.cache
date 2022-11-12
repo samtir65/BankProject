@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "H9z+MITIvNw5V1yyl1PYph5ibHFgz4ds2mI0TQWef4iVKTHX/w323iHyDRvSZ9CpI4VoSi88RfribRfX4pbrjw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj",
-=======
   "dgSpecHash": "Rme6I3Pvj4ila5xZmr+uYz0RToEaGuG4bhWKQA5qNAS3apV8U8XY8nfzI8ca996wDcTzWLQ+FEJwwG67z5PZFw==",
   "success": true,
   "projectFilePath": "E:\\samira project\\BankProject\\BankProject\\BankProject.csproj",
->>>>>>> 3c1b82263c2765104de61c48eb9d1383954ad19a
   "expectedPackageFiles": [
     "C:\\Users\\NP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\NP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
@@ -17,5 +11,12 @@
     "C:\\Users\\NP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\NP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\samira project\\BankProject\\BankProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

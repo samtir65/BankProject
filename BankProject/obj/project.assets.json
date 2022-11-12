@@ -230,19 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj",
-      "projectName": "BankProject",
-      "projectPath": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj",
-      "packagesPath": "C:\\Users\\Samira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\obj\\",
-=======
       "projectUniqueName": "E:\\samira project\\BankProject\\BankProject\\BankProject.csproj",
       "projectName": "BankProject",
       "projectPath": "E:\\samira project\\BankProject\\BankProject\\BankProject.csproj",
       "packagesPath": "C:\\Users\\NP\\.nuget\\packages\\",
       "outputPath": "E:\\samira project\\BankProject\\BankProject\\obj\\",
->>>>>>> 3c1b82263c2765104de61c48eb9d1383954ad19a
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -301,5 +293,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\samira project\\BankProject\\BankProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

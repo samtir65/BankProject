@@ -5,7 +5,7 @@ namespace BankProject.Controllers;
 public class AccountController : Controller
 {
     // post
-    [HttpPost]
+    [HttpGet]
     [Route("[controller]")]
     public IActionResult Index()
     {

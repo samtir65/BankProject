@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj",
-        "projectName": "BankProject",
-        "projectPath": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj",
-        "packagesPath": "C:\\Users\\Samira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\obj\\",
-=======
     "E:\\samira project\\BankProject\\BankProject\\BankProject.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "E:\\samira project\\BankProject\\BankProject\\BankProject.csproj",
         "packagesPath": "C:\\Users\\NP\\.nuget\\packages\\",
         "outputPath": "E:\\samira project\\BankProject\\BankProject\\obj\\",
->>>>>>> 3c1b82263c2765104de61c48eb9d1383954ad19a
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

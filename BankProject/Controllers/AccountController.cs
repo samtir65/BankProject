@@ -11,4 +11,12 @@ public class AccountController : Controller
     {
         return View();
     }
+
+    [HttpGet]
+    [Route("[controller]/Mamad")]
+
+    public string Mamad()
+    {
+        return "Mamad";
+    }
 }

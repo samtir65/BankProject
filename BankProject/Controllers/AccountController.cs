@@ -6,6 +6,7 @@ public class AccountController : Controller
 {
     // post
     [HttpPost]
+    [Route("[controller]")]
     public IActionResult Index()
     {
         return View();

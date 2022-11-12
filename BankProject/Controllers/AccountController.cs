@@ -6,7 +6,7 @@ public class AccountController : Controller
 {
     // post
     [HttpGet]
-    [Route("[controller]")]
+    [Route("[api/account]")]
     public IActionResult Index()
     {
         return View();

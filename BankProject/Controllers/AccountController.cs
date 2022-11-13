@@ -6,15 +6,15 @@ public class AccountController : Controller
 {
     // post
     [HttpGet]
-    [Route("[api/account]")]
-    public IActionResult Index()
+    [Route("api/[controller]")]
+    public string Index()
     {
-        return View();
+        return "Empty Index";
     }
 
-    [HttpGet]
-    [Route("[controller]/Mamad")]
 
+    [HttpGet]
+    [Route("api/[controller]/Mamad")]
     public string Mamad()
     {
         return "Mamad";

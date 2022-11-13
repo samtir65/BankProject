@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj": {}
+    "E:\\BankProject\\BankProject\\BankProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj": {
+    "E:\\BankProject\\BankProject\\BankProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj",
+        "projectUniqueName": "E:\\BankProject\\BankProject\\BankProject.csproj",
         "projectName": "BankProject",
-        "projectPath": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\BankProject.csproj",
-        "packagesPath": "C:\\Users\\Samira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samira\\Desktop\\BankProject\\BankProject\\obj\\",
+        "projectPath": "E:\\BankProject\\BankProject\\BankProject.csproj",
+        "packagesPath": "C:\\Users\\NP\\.nuget\\packages\\",
+        "outputPath": "E:\\BankProject\\BankProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Samira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\NP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

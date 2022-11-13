@@ -25,3 +25,30 @@ E:\samira project\BankProject\BankProject\obj\Debug\net6.0\refint\BankProject.dl
 E:\samira project\BankProject\BankProject\obj\Debug\net6.0\BankProject.pdb
 E:\samira project\BankProject\BankProject\obj\Debug\net6.0\BankProject.genruntimeconfig.cache
 E:\samira project\BankProject\BankProject\obj\Debug\net6.0\ref\BankProject.dll
+E:\BankProject\BankProject\bin\Debug\net6.0\appsettings.Development.json
+E:\BankProject\BankProject\bin\Debug\net6.0\appsettings.json
+E:\BankProject\BankProject\bin\Debug\net6.0\BankProject.exe
+E:\BankProject\BankProject\bin\Debug\net6.0\BankProject.deps.json
+E:\BankProject\BankProject\bin\Debug\net6.0\BankProject.runtimeconfig.json
+E:\BankProject\BankProject\bin\Debug\net6.0\BankProject.dll
+E:\BankProject\BankProject\bin\Debug\net6.0\BankProject.pdb
+E:\BankProject\BankProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\BankProject\BankProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\BankProject\BankProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\BankProject\BankProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.csproj.AssemblyReference.cache
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.AssemblyInfoInputs.cache
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.AssemblyInfo.cs
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.csproj.CoreCompileInputs.cache
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.MvcApplicationPartsAssemblyInfo.cs
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.MvcApplicationPartsAssemblyInfo.cache
+E:\BankProject\BankProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\BankProject\BankProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\BankProject\BankProject\obj\Debug\net6.0\scopedcss\bundle\BankProject.styles.css
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.csproj.CopyComplete
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.dll
+E:\BankProject\BankProject\obj\Debug\net6.0\refint\BankProject.dll
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.pdb
+E:\BankProject\BankProject\obj\Debug\net6.0\BankProject.genruntimeconfig.cache
+E:\BankProject\BankProject\obj\Debug\net6.0\ref\BankProject.dll

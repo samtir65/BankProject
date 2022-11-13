@@ -19,4 +19,9 @@ public class AccountController : Controller
     {
         return "Mamad";
     }
+
+    private string Samira()
+    {
+        return "Samira";
+    }
 }

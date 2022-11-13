@@ -24,4 +24,9 @@ public class AccountController : Controller
     {
         return "Samira";
     }
+
+    private void VsTest()
+    {
+        int a = 10;
+    }
 }

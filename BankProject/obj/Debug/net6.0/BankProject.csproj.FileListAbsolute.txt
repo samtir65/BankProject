@@ -25,3 +25,30 @@ E:\samira project\BankProject\BankProject\obj\Debug\net6.0\refint\BankProject.dl
 E:\samira project\BankProject\BankProject\obj\Debug\net6.0\BankProject.pdb
 E:\samira project\BankProject\BankProject\obj\Debug\net6.0\BankProject.genruntimeconfig.cache
 E:\samira project\BankProject\BankProject\obj\Debug\net6.0\ref\BankProject.dll
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\BankProject.exe
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\BankProject.deps.json
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\BankProject.runtimeconfig.json
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\BankProject.dll
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\BankProject.pdb
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samira\Desktop\BankProject\BankProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.csproj.AssemblyReference.cache
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.AssemblyInfoInputs.cache
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.AssemblyInfo.cs
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.csproj.CoreCompileInputs.cache
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\scopedcss\bundle\BankProject.styles.css
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.csproj.CopyComplete
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.dll
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\refint\BankProject.dll
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.pdb
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\BankProject.genruntimeconfig.cache
+C:\Users\Samira\Desktop\BankProject\BankProject\obj\Debug\net6.0\ref\BankProject.dll
